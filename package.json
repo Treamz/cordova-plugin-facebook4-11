@@ -1,7 +1,29 @@
 {
-  "name": "cordova-plugin-facebook4",
-  "version": "6.4.0",
-  "description": "Cordova Facebook SDK 4 Plugin",
+  "_from": "git+https://github.com/Treamz/cordova-plugin-facebook4.git",
+  "_id": "cordova-plugin-facebook4@6.4.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-facebook4",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/Treamz/cordova-plugin-facebook4.git",
+    "rawSpec": "git+https://github.com/Treamz/cordova-plugin-facebook4.git",
+    "saveSpec": "git+https://github.com/Treamz/cordova-plugin-facebook4.git",
+    "fetchSpec": "https://github.com/Treamz/cordova-plugin-facebook4.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/Treamz/cordova-plugin-facebook4.git#0d91f05f301f110a8b298e947b9ca00c8a8d434e",
+  "_spec": "git+https://github.com/Treamz/cordova-plugin-facebook4.git",
+  "_where": "/Users/ivancernokniznikov/Documents/taptoptap/taptap",
+  "bugs": {
+    "url": "https://github.com/Treamz/cordova-plugin-facebook4/issues"
+  },
+  "bundleDependencies": false,
   "cordova": {
     "id": "cordova-plugin-facebook4",
     "platforms": [
@@ -10,10 +32,9 @@
       "browser"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Treamz/cordova-plugin-facebook4"
-  },
+  "deprecated": false,
+  "description": "Cordova Facebook SDK 4 Plugin",
+  "homepage": "https://github.com/Treamz/cordova-plugin-facebook4#readme",
   "keywords": [
     "cordova",
     "facebook",
@@ -25,5 +46,11 @@
     "social",
     "sharing"
   ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "name": "cordova-plugin-facebook4",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Treamz/cordova-plugin-facebook4.git"
+  },
+  "version": "6.4.0"
 }
